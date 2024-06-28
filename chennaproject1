@@ -1,0 +1,2 @@
+names=['chenna'.'naresh']
+print(len(names))
